@@ -1,0 +1,16 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: navajowhite;
+}
+h1 {
+ text-align: center;
+ position: sticky;   
+}
+div {
+width: 40%;
+height: fit-content;
+background-color: lemonchiffon;
+margin: auto;
+border: 7px;
+border-style: ridge;
+}
