@@ -14,3 +14,11 @@ margin: auto;
 border: 7px;
 border-style: ridge;
 }
+
+#image {
+  border-style: none;
+  display: flex; 
+  flex-direction: row; 
+  justify-content: center;
+ gap: 3px;
+}
